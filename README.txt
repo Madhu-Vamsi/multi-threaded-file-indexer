@@ -1,20 +1,8 @@
 ####################################################################################################################
 
 README file:
-file submitted is: homework.py
+
 ####################################################################################################################
-
-Steps to execute:
-
-Step 1: Download & install python if its not yet installed in your computer.
-Step 2: install fuse using this command "sudo pip install fusepy"
-Step 3: make a empty directory with name say 'testing' using "mkdir testing"
-Step 4: zip a directory (say abc) using this command "zip -r abc.zip abc"
-Step 5: now execute the command "python homework.py abc.zip ./testing"
-
-Congratulation, if you have gotton this far without errors then the filesystem is mounted at "testing" directory.
-
-All the contents of zip file "abc.zip" can be seen in 'testing' directory in read-only format.
 
 
 ___________________________________________________________________________________________________________________
